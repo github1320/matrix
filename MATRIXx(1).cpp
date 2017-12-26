@@ -8,7 +8,7 @@
 #include <cmath>
 using namespace std;
 
-class matri
+class matrix
 {
 int **m_array;
 int m,n; //m-ñòðîêè, n-ñòîëáöû
